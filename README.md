@@ -1,1 +1,1 @@
-# Block proxies list for dProtect
+# List forbidden proxies for dProtect
